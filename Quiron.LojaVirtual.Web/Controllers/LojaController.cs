@@ -12,6 +12,7 @@ namespace Quiron.LojaVirtual.Web.Controllers
         public ActionResult Index()
         {
             return View();
+
         }
     }
 }
